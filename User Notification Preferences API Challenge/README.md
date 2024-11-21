@@ -27,7 +27,4 @@ A serverless API built using Nest.js for managing user notification preferences 
 - **TypeScript**: Language
 - **Jest**: Testing
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/user-notification-api.git
+
